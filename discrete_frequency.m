@@ -1,3 +1,5 @@
+% Discrete-time sinusoids whose frequencies are separated by an integer multiple of 2*pi are identical.
+
 n = 0:1:12;
 t = 0:0.01:12;
 k_max = 3;
