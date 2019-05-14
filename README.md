@@ -2,4 +2,4 @@
 Digital signal processing
 
 - [discrete_frequemcy.m](https://github.com/YunyyYY/Ve451/blob/master/discrete_frequency.m): Discrete-time sinusoids whose frequencies are separated by an integer multiple of 2\*pi are identical.
-![](discrete_frequency.jpg)
+<img src='discrete_frequency.jpg' width = 700/>
